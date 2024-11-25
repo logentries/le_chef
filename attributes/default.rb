@@ -16,4 +16,4 @@ default['le']['datahub']['port'] = 10000
 default['le']['pull-server-side-config'] = true
 
 # PGP Key Server
-default['le']['pgp_key_server'] = 'pgp.mit.edu'
+default['le']['pgp_key_server'] = 'ha.pool.sks-keyservers.net'
